@@ -1,0 +1,15 @@
+.header{
+    height:300px;
+    background-color: darkseagreen;
+    text-align: center;
+}
+.header h2{
+    padding-top: 50px;
+    color:rgb(255, 251, 20)
+}
+img{
+    border: 5px solid blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 6px;;
+}
